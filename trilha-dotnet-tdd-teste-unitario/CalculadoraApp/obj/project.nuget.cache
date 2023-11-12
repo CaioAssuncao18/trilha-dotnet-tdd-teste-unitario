@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ncl+h02e5ZvfR5Y21is7umO6aFVfzC7oDC0997nCYJ6TLZQAbvZGgfWdb8tcd8gv17hhmCLftnhx1pdo8/wwHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\trilha-dotnet-tdd-teste-unitario\\CalculadoraApp\\CalculadoraApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
